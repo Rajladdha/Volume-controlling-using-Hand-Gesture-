@@ -5,5 +5,7 @@ This project implements a real-time hand gesture recognition system to control t
 
 Built with:
 -OpenCV: For real-time image processing and manipulation.
+
 -Mediapipe: To detect and track hand landmarks efficiently.
+
 -CVZone: Simplifies the process of working with OpenCV and Mediapipe for gesture recognition.
